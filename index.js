@@ -13,12 +13,10 @@ new Swiper(swiper, {
 // Button
 
 const clubBtn = document.querySelector(".part-of-club-btn button")
-const plusImg = document.querySelector(".plus__img")
 let maxOffset = clubBtn.getBoundingClientRect().bottom
 
 
 document.addEventListener("scroll", () => {
-    console.log(clubBtn.getBoundingClientRect().bottom, maxOffset)
     if(clubBtn.getBoundingClientRect().bottom < maxOffset) {
         clubBtn.textContent = "Хочу абонемент"
     } else {

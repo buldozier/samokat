@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="выровнял ширину для девайсов &lt;375px">
+    <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="сделал sticky кнопку и смену текста при скролле">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -49,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693250652391</updated>
       <workItem from="1693250653405" duration="411000" />
-      <workItem from="1693251074169" duration="9316000" />
+      <workItem from="1693251074169" duration="10999000" />
     </task>
     <task id="LOCAL-00001" summary="mobile version">
       <option name="closed" value="true" />
@@ -99,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693295480942</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="сделал sticky кнопку и смену текста при скролле">
+      <option name="closed" value="true" />
+      <created>1693300172376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693300172376</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +130,7 @@
     <MESSAGE value="мобильная версия, кнопки и картинки готовы" />
     <MESSAGE value="работаем с кнопкой и свойством sticky" />
     <MESSAGE value="выровнял ширину для девайсов &lt;375px" />
-    <option name="LAST_COMMIT_MESSAGE" value="выровнял ширину для девайсов &lt;375px" />
+    <MESSAGE value="сделал sticky кнопку и смену текста при скролле" />
+    <option name="LAST_COMMIT_MESSAGE" value="сделал sticky кнопку и смену текста при скролле" />
   </component>
 </project>

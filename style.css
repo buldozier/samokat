@@ -89,10 +89,6 @@ body {
     color: var(--label-black);
 }
 
-main {
-    margin-bottom: 27px;
-}
-
 h1 {
     font-size: 36px;
     font-weight: 900;
@@ -364,6 +360,7 @@ h2 {
     position: sticky;
     bottom: 24px;
     z-index: 100;
+    margin-top: 27px;
 }
 
 /* footer */
