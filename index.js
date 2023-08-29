@@ -19,14 +19,13 @@ let maxOffset = clubBtn.getBoundingClientRect().bottom
 
 
 document.addEventListener("scroll", () => {
-    console.log(window.scrollY + window.innerHeight, window.innerHeight)
     if(window.scrollY + window.innerHeight >= 3059) {
-        clubBtn.textContent = window.scrollY + window.innerHeight
+        clubBtn.textContent = "Хочу абонемент"
         clubBtnContainer.classList.add("part-of-club-btn-static")
         main.classList.remove("margin-bottom")
     } else {
         maxOffset = clubBtn.getBoundingClientRect().bottom
-        clubBtn.textContent = window.scrollY + window.innerHeight
+        clubBtn.textContent = "Стать частью клуба"
         clubBtnContainer.classList.remove("part-of-club-btn-static")
         main.classList.add("margin-bottom")
     }
