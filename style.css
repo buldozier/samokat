@@ -357,9 +357,16 @@ h2 {
 /* part-of-club btn */
 
 .part-of-club-btn {
-    position: sticky;
+    position: fixed;
+    width: 100%;
     bottom: 24px;
     z-index: 100;
+    margin-top: 27px;
+}
+
+.part-of-club-btn-static {
+    position: relative;
+    bottom: 0;
     margin-top: 27px;
 }
 
