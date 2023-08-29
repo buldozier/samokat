@@ -176,14 +176,14 @@ h2 {
 
 .header__img img:first-child {
     width: 320px;
-    margin-top: -18px;
-    margin-left: -11px;
+    margin-top: 16px;
+    margin-left: -10px;
     transform: rotate(-8.008deg);
 }
 
 .header__img img:nth-child(2){
     position: absolute;
-    bottom: 73px;
+    bottom: 55px;
     left: 76px;
     transform: rotate(3.699deg);
     width: 80px;
@@ -192,7 +192,7 @@ h2 {
 
 .header__img img:last-child {
     position: absolute;
-    bottom: 73px;
+    bottom: 55px;
     left: 76px;
     transform: rotate(3.699deg);
     width: 80px;
@@ -296,21 +296,43 @@ h2 {
 .plus__img {
     width: 360px;
     margin: 0 auto;
+    position: relative;
+    background: url("img/Ellipse 1973.png") 10px 15px;
+    padding-bottom: 60px;
 }
 
-.plus__img img {
-    margin-left: -8px;
-    margin-top: -2px;
+.plus__img img:first-child {
+    width: 189px;
+    margin-left: 85px;
+    margin-top: 45px;
+}
+
+.plus__img img:nth-child(2){
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    transform: rotate(-8.983deg);
+    width: 283px;
+
+}
+
+.plus__img img:last-child {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    transform: rotate(-8.983deg);
+    width: 283px;
+    mix-blend-mode: difference;
 }
 
 /* join-us */
 
 .join-us {
-    margin-top: -69px;
+    margin-top: -1px;
 }
 
 .join-us__inner p {
-    margin-top: 24px;
+    margin-top: 22px;
 }
 
 /* want-btn */
@@ -335,6 +357,7 @@ h2 {
 
 .part-of-club-btn {
     position: sticky;
+    margin-top: 27px;
     bottom: 24px;
     z-index: 100;
 }
