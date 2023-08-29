@@ -80,6 +80,10 @@ html {
     --bg-white: #FFFFFF;
 }
 
+.margin-bottom {
+    padding-bottom: 77px;
+}
+
 body {
     font-family: "YS Text", serif;
     font-size: 16px;
