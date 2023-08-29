@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="Рабочая кнопка">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="нерабочая кнопка">
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693250652391</updated>
       <workItem from="1693250653405" duration="411000" />
-      <workItem from="1693251074169" duration="14072000" />
+      <workItem from="1693251074169" duration="14408000" />
     </task>
     <task id="LOCAL-00001" summary="mobile version">
       <option name="closed" value="true" />
@@ -130,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693304381594</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="нерабочая кнопка">
+      <option name="closed" value="true" />
+      <created>1693305860298</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693305860298</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +162,7 @@
     <MESSAGE value="сделал sticky кнопку и смену текста при скролле" />
     <MESSAGE value="эксперименты с кнопкой" />
     <MESSAGE value="Рабочая кнопка" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рабочая кнопка" />
+    <MESSAGE value="нерабочая кнопка" />
+    <option name="LAST_COMMIT_MESSAGE" value="нерабочая кнопка" />
   </component>
 </project>
