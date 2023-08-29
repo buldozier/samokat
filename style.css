@@ -361,7 +361,7 @@ h2 {
 
 .part-of-club-btn {
     position: sticky;
-    bottom: 3%;
+    bottom: 3vh;
     z-index: 100;
 }
 
