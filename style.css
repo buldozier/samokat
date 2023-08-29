@@ -179,7 +179,7 @@ h2 {
 }
 
 .header__img img:first-child {
-    width: 320px;
+    max-width: 320px;
     margin-top: 16px;
     margin-left: -10px;
     transform: rotate(-8.008deg);
@@ -254,7 +254,7 @@ h2 {
 }
 
 .swiper {
-    width: 343px;
+    max-width: 343px;
     margin: 42px auto 0 auto;
 }
 
@@ -298,7 +298,7 @@ h2 {
 }
 
 .plus__img {
-    width: 360px;
+    max-width: 360px;
     margin: 0 auto;
     position: relative;
     background: url("img/Ellipse 1973.png") 10px 15px;
@@ -361,7 +361,7 @@ h2 {
 
 .part-of-club-btn {
     position: sticky;
-    bottom: 3vh;
+    bottom: 24px;
     z-index: 100;
 }
 
@@ -383,4 +383,31 @@ footer a {
     font-weight: 400;
     line-height: 120%; /* 12px */
     margin-bottom: 72px;
+}
+
+@media screen and (max-width: 375px) {
+    .container {
+        /*width: 100%;*/
+        /*margin: 0;*/
+        /*padding: 0 calc((100vw - 311px)/2);*/
+    }
+
+    .swiper-decoration {
+        bottom: -51%;
+        right: 0;
+        z-index: 10;
+    }
+
+    .swiper-slide img {
+        width: 100%;
+    }
+
+
+    .plus__img img:nth-child(2){
+        transform: rotate(0deg);
+    }
+
+    .plus__img img:last-child {
+        transform: rotate(0deg);
+    }
 }
