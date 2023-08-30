@@ -377,6 +377,7 @@ h2 {
   padding: 14px 0;
   font-family: YS Text, serif;
   font-size: 18px;
+  color: var(--label-black);
   font-weight: 500;
   line-height: 22px; /* 122.222% */
   border-radius: 36px;

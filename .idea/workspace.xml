@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="Редактирование opengraph">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,8 @@
       <updated>1693250652391</updated>
       <workItem from="1693250653405" duration="411000" />
       <workItem from="1693251074169" duration="21723000" />
-      <workItem from="1693373720279" duration="12889000" />
+      <workItem from="1693373720279" duration="13545000" />
+      <workItem from="1693399515967" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="mobile version">
       <option name="closed" value="true" />
@@ -219,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693394337302</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Редактирование opengraph">
+      <option name="closed" value="true" />
+      <created>1693394758604</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1693394758604</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
