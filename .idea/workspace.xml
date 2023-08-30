@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="Все готово">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0a054804-ac5c-45f6-905c-0611ce14ab23" name="Changes" comment="Добавил фавикон и opengraph">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <updated>1693250652391</updated>
       <workItem from="1693250653405" duration="411000" />
       <workItem from="1693251074169" duration="21723000" />
-      <workItem from="1693373720279" duration="11464000" />
+      <workItem from="1693373720279" duration="11901000" />
     </task>
     <task id="LOCAL-00001" summary="mobile version">
       <option name="closed" value="true" />
@@ -188,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693391827989</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Добавил фавикон и opengraph">
+      <option name="closed" value="true" />
+      <created>1693393329682</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693393329682</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +222,7 @@
     <MESSAGE value="Рабочая кнопка" />
     <MESSAGE value="Начал десктоп" />
     <MESSAGE value="Все готово" />
-    <option name="LAST_COMMIT_MESSAGE" value="Все готово" />
+    <MESSAGE value="Добавил фавикон и opengraph" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил фавикон и opengraph" />
   </component>
 </project>
