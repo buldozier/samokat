@@ -383,6 +383,9 @@ h2 {
   border-radius: 36px;
   background: var(--accent-yellow);
   box-shadow: 0 4px 64px 0 rgba(255, 222, 64, 0.59);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 
 .want-btn {
@@ -639,6 +642,7 @@ footer a {
   .exclusive__inner h2 {
     width: 620px;
   }
+
   .exclusive__inner p {
     margin-top: 35px;
     width: 440px;
@@ -704,7 +708,6 @@ footer a {
   }
 
   /* plus */
-
   .plus {
     margin-top: 100px;
   }
@@ -713,7 +716,7 @@ footer a {
     display: flex;
   }
 
-  .plus__inner h2{
+  .plus__inner h2 {
     width: 407px;
   }
 
@@ -760,7 +763,6 @@ footer a {
   }
 
   /* join-us */
-
   .join-us {
     margin-top: 117px;
   }
@@ -776,11 +778,11 @@ footer a {
     margin-right: 32px;
   }
 
-  .join-us__inner .right h2{
+  .join-us__inner .right h2 {
     width: 407px;
   }
 
-  .join-us__inner .right p{
+  .join-us__inner .right p {
     margin-top: 36px;
     width: 420px;
   }
@@ -835,7 +837,7 @@ footer a {
     margin-top: 40px;
   }
 
-  .join-us__desktop-btn button{
+  .join-us__desktop-btn button {
     width: 281px !important;
     cursor: pointer;
   }
@@ -846,7 +848,6 @@ footer a {
   }
 
   /* footer */
-
   footer {
     margin-top: 127px;
     font-size: 13px;
