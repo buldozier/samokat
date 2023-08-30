@@ -48,7 +48,7 @@
       <updated>1693250652391</updated>
       <workItem from="1693250653405" duration="411000" />
       <workItem from="1693251074169" duration="21723000" />
-      <workItem from="1693373720279" duration="11901000" />
+      <workItem from="1693373720279" duration="12270000" />
     </task>
     <task id="LOCAL-00001" summary="mobile version">
       <option name="closed" value="true" />
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693393329682</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Добавил фавикон и opengraph">
+      <option name="closed" value="true" />
+      <created>1693393684869</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1693393684869</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
