@@ -37,6 +37,9 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: subpixel-antialiased;
   text-rendering: geometricPrecision;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 
 /* Fonts */
@@ -383,9 +386,6 @@ h2 {
   border-radius: 36px;
   background: var(--accent-yellow);
   box-shadow: 0 4px 64px 0 rgba(255, 222, 64, 0.59);
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
 }
 
 .want-btn {
