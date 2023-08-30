@@ -728,6 +728,8 @@ footer a {
   .plus__inner .right {
     display: block;
     position: relative;
+    pointer-events: none;
+    user-select: none;
   }
 
   .plus__inner .right img:first-child {
@@ -784,6 +786,8 @@ footer a {
 
   .join-us__inner .left {
     display: block;
+    pointer-events: none;
+    user-select: none;
   }
 
   .join-us__inner .left img:first-child {
