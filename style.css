@@ -231,13 +231,18 @@ h2 {
 .privilege__list {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 22px;
 }
 
 .privilege__item {
   display: flex;
   gap: 16px;
   align-items: center;
+}
+
+
+.item-svg__desktop {
+  display: none;
 }
 
 .privilege__item p {
@@ -525,8 +530,8 @@ footer a {
 
   .header__desktop-img img:first-child {
     position: absolute;
-    top: 12px;
-    left: 318px;
+    top: 94px;
+    left: 320px;
     width: 744px;
     transform: rotate(-8deg);
     z-index: -1;
@@ -598,7 +603,7 @@ footer a {
   .privilege__item {
     flex-direction: column;
     width: 400px;
-    gap: 10px;
+    gap: 16px;
   }
 
   .item-svg {
@@ -607,6 +612,18 @@ footer a {
 
   .privilege__item p {
     width: 100%;
+  }
+
+  .item-svg__mobile {
+    display: none;
+  }
+
+  .item-svg__desktop {
+    display: block;
+  }
+
+  .privilege__item:last-child svg {
+    background: url("img/Frame 1171275592_2.png");
   }
 
   /*  exclusive  */
@@ -635,6 +652,7 @@ footer a {
   }
 
   .exclusive__desktop-img {
+    display: block;
     margin-top: 80px;
   }
 
